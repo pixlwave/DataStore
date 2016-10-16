@@ -6,7 +6,7 @@ A very simple JSON backed data store for RubyMotion, with a settable file name a
 
 Add this line to your application's Gemfile:
 
-    gem 'DataStore', github: 'digitalfx/DataStore'
+    gem 'DataStore', github: 'pixlwave/DataStore'
 
 And then execute:
 
